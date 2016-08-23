@@ -1,0 +1,8 @@
+{
+  "name": "node-express-sandbox-app",
+  "version": "0.1.0",
+  "description": "a sandbox app to experiment with express.js capabilities",
+  "dependencies": {
+  "express": "~4"
+  }
+}

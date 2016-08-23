@@ -1,5 +1,5 @@
 {
-  "name": "node-express-sandbox-app",
+  "name": "node-express-playground",
   "version": "0.1.0",
   "description": "a sandbox app to experiment with express.js capabilities",
   "dependencies": {

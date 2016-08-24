@@ -48,8 +48,8 @@ app.use(function(request, response, next){
 */
 
 //Open port to listen on
-app.listen(9999, function() {
-	console.log('server listening on Port 9999');
+app.listen(3000, function() {
+	console.log('server listening on Port 3000');
 });
 
 /*

@@ -4,8 +4,12 @@
   "description": "a sandbox app to experiment with express.js",
   "main": "server.js",
   "dependencies": {
-  "express": "~4",
+  "express": "~4"
   },
   "author": "jane-doe",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "6.3.1"
+  },
+	"repository": "https://github.com/trycrmr/node-express-playground"
 }
